@@ -25,14 +25,14 @@ Load up the packages if you haven't already....
 # install.packages("SnowballC")
 # install.packages("lda")
 # install.packages("ldatuning")
-# install.packages("kableExtra")
-# install.packages("DT")
-# install.packages("flextable")
-# install.packages("remotes")
-# remotes::install_github("rlesur/klippy")
-#install.packages("rio")
-#install.packages("readtext")
-#install.packages("formattable")
+#install.packages("kableExtra")
+install.packages("DT")
+install.packages("flextable")
+install.packages("remotes")
+remotes::install_github("rlesur/klippy")
+install.packages("rio")
+install.packages("readtext")
+install.packages("formattable")
 
 
 ```
